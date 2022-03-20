@@ -26,13 +26,13 @@ npm run start
 ## Screenshot
 
 ##### Page 1
-![Page](./screenshots/register.png "Page")
+<img src="./screenshots/Screenshot-1.png" width="300" height="600">
 
 ##### Detail 1
-![Page](./screenshots/register.png "Page")
+<img src="./screenshots/Screenshot-2.png" width="300" height="600">
 
-##### Detail 1
-![Detail](./screenshots/register.png "Detail")
+##### Detail 1 (Cont.)
+<img src="./screenshots/Screenshot-3.png" width="300" height="600">
 
 ##### Order
-![Order](./screenshots/register.png "Order")
+<img src="./screenshots/Screenshot-4.png" width="300" height="600">
